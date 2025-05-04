@@ -1,0 +1,16 @@
+# compiled classes
+*.class
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+
+# build output
+target/
